@@ -2,4 +2,4 @@
  Project done for course MA616(Spring 2021) at IIT Ropar
 
 
-Note: I do not own  the Caravan dataset. All rights to use belongs to its original owners
+Note: I do not own  the Caravan dataset. All the rights belongs to its original owners
